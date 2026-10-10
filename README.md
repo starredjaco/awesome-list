@@ -42,6 +42,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Clang Hardening Cheat Sheet - Ten Years Later"][1239]
 - ["CrackArmor: Multiple vulnerabilities in AppArmor"][1267]
 - ["Creative approaches to coding FUD Stagers"][1299]
+- ["CUSAFE: Capturing Memory Corruption on NVIDIA GPUs"][1322]
 - "CVE-2025-38352":
   - ["In-the-wild Android Kernel Vulnerability Analysis + PoC"][1224]
   - ["Extending The Race Window Without a Kernel Patch"][1225]
@@ -84,6 +85,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Now You See mi: Now You're Pwned"][1278]
 - ["Obfuscation vs the Optimizer: An LLVM Middle-End Arms Race"][1276]
 - ["On the Clock: Escaping VMWare Workstation at Pwn2Own Berlin 2025"][1252]
+- ["One of the many flaws of Phi untagging: CVE-2026-4447"][1321]
 - ["Out-of-Cancel: A Vulnerability Class Rooted in Workqueue Cancellation APIs"][1301]
 - ["Page-level UAF exploitation"][1268]
 - ["PageJack in Action: CVE-2022-0995 exploit"][1270]
@@ -2827,3 +2829,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1318]: https://fatgid.io
 [1319]: https://it4ch1-007.github.io/posts/Poc-CVE-2020-0022/
 [1320]: https://voidsec.com/cve-2026-40369-browser-sandbox-escape/
+[1321]: https://kqx.io/post/cve-2026-4447/
+[1322]: https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_lu.pdf
